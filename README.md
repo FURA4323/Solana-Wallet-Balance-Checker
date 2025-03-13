@@ -12,10 +12,10 @@ Handles errors and missing files gracefully.
 To run this script, you'll need to install the following Python libraries:
 - `solana` – A Python library for interacting with the Solana blockchain.
 - `solders` – A library for working with Solana public keys.
-You can install these dependencies by running:
-pip install solana solders
 
-Usage:
+You can install these dependencies by running: **pip install solana solders**
+
+**Usage**:
 
 Place wallet addresses (one per line) in a text file (e.g., wallets.txt).
 Specify the correct path to wallets.txt in line 45 of the script:
