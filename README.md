@@ -12,7 +12,8 @@ Handles errors and missing files gracefully.
 Usage:
 
 Place wallet addresses (one per line) in a text file (e.g., wallets.txt).
-Specify the correct path to wallets.txt in line 45 of the script: filepath = r"C:\Users\user\Documents\wallets.txt"  # Change this to your file path
+Specify the correct path to wallets.txt in line 45 of the script:
+filepath = r"C:\Users\user\Documents\wallets.txt"  # Change this to your file path
 
 Run the script to check balances: python check_balance.py
 
